@@ -1,0 +1,18 @@
+{
+  "name": "gulp-sass-starter-project",
+  "description": "A gulp/sass starter project",
+  "homepage": "http://pedrodavidborges.com/",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pedro David Borges",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.0.4",
+    "gulp-compass": "^2.1.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
